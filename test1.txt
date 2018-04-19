@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 test1 tttttttt
 eeeeeee
 wwwwwww
 qqqqqq
 test1 test2 test3
 test test
->>>>>>> test
